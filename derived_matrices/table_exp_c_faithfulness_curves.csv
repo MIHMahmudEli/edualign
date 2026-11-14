@@ -1,0 +1,10 @@
+Features_Modified,SHAP_Deletion_Prediction_Drop,Random_Deletion_Prediction_Drop,SHAP_Insertion_Residual_Error,Random_Insertion_Residual_Error
+0,0.0,0.0,0.179,0.179
+1,0.128,0.0469,0.179,0.179
+2,0.179,0.083,0.098,0.1765
+3,0.179,0.1158,0.05,0.1645
+4,0.179,0.1451,0.0,0.1316
+5,0.179,0.1581,0.0,0.1095
+6,0.179,0.1679,0.0,0.0809
+7,0.179,0.179,0.0,0.0491
+8,0.179,0.179,0.0,0.0

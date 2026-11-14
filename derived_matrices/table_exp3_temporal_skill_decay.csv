@@ -1,0 +1,6 @@
+Skill_Competency,Penetration_2020,Penetration_2026,Annual_Velocity_Slope,CAGR_Percent,P_Value,Curricular_Lag_4Yr_Divergence,Trajectory
+Python Programming,47.5%,48.4%,0.0024,0.31,0.5255,2.8%,Expanding
+SQL & Relational Databases,51.9%,48.2%,-0.0047,-1.22,0.0148,2.9%,Contracting
+Machine Learning Core,48.8%,49.2%,0.0017,0.12,0.6383,4.4%,Expanding
+Deep Learning & Neural Networks,50.9%,49.9%,-0.0025,-0.34,0.2493,3.6%,Contracting
+Cloud Infrastructure & DevOps,52.0%,51.9%,-0.0008,-0.04,0.8613,2.5%,Contracting

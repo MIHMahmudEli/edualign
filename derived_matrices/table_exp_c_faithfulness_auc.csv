@@ -1,0 +1,2 @@
+Deletion_AUC_SHAP,Deletion_AUC_Random,Faithfulness_Deletion_Uplift,Insertion_AUC_SHAP,Insertion_AUC_Random,Faithfulness_Insertion_Gain
+0.1614,0.1232,0.0383,0.0521,0.1226,0.0705

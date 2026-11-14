@@ -1,0 +1,8 @@
+Target_Confidence_Tau,Feasible_Solution_Rate_Pct,Mean_Intervention_Effort,Std_Intervention_Effort,Mean_Placement_Prob_Gain,Marginal_Effort_Per_10Pct_Gain
+0.5,25.8,0.7384,0.4163,1.0,0.0738
+0.6,25.8,0.7384,0.4163,1.0,0.0738
+0.7,25.8,0.7384,0.4163,1.0,0.0738
+0.8,25.8,0.7384,0.4163,1.0,0.0738
+0.85,25.8,0.7384,0.4163,1.0,0.0738
+0.9,25.8,0.7384,0.4163,1.0,0.0738
+0.95,25.8,0.7384,0.4163,1.0,0.0738

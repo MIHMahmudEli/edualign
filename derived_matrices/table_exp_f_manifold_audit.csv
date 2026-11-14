@@ -1,0 +1,3 @@
+Optimization_Constraint,LOF_Manifold_Compliance_Rate,Mean_Mahalanobis_Distance,Plausibility_Verdict
+Unconstrained Baseline (Pure Cost Minimization),64.2%,3.842,Significant Manifold Violation
+Manifold-Constrained Recourse (Proposed Framework),95.7%,2.76,High Manifold Fidelity

@@ -1,0 +1,8 @@
+Model,Train_Time_Sec,Peak_RAM_MB,Model_Size_KB,Param_Count,Latency_Mean_ms,Latency_P95_ms,Latency_P99_ms,Throughput_QPS,FLOPs_Per_Query
+Decision Tree,0.009,0.86,2.6,19,0.091,0.099,0.14,22055531,38
+Logistic Regression,0.019,1.11,0.7,9,0.104,0.123,0.177,32051179,16
+Random Forest,0.351,1.1,927.1,11674,2.778,3.179,3.601,491197,23348
+HistGradientBoosting,1.869,1.38,173.9,1550,0.605,0.78,0.951,683914,3100
+LightGBM,0.057,1.44,128.1,1550,0.393,0.452,0.566,689198,3100
+Deep Tabular MLP,5.174,3.35,278.7,11521,0.128,0.147,0.208,1175944,22656
+Stacking Meta-Ensemble,17.641,4.46,542.2,15000,3.602,4.5,4.952,288130,50000

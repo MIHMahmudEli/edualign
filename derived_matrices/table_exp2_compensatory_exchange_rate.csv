@@ -1,0 +1,6 @@
+CGPA_Tier,Status,Required_Projects_for_Placement,Required_Comm_Score_for_Placement,Compensatory_Feasible
+6.5,Deficient,> 5,> 10.0,False
+7.0,Deficient,> 5,> 10.0,False
+7.5,Deficient,> 5,> 10.0,False
+8.0,Competitive,> 5,> 10.0,False
+8.5,Competitive,> 5,7.75,True

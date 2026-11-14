@@ -1,0 +1,13 @@
+Target_Cohort,Calibration_Fraction,ROC_AUC,AUC_Recovery_Pct
+Career Success (N=50K),0%,0.7052,90.52
+Career Success (N=50K),2%,0.7361,94.49
+Career Success (N=50K),5%,0.7576,97.25
+Career Success (N=50K),10%,0.7681,98.6
+Career Success (N=50K),20%,0.7718,99.07
+Career Success (N=50K),100%,0.779,100.0
+International (N=50K),0%,0.7512,96.01
+International (N=50K),2%,0.7598,97.11
+International (N=50K),5%,0.7712,98.57
+International (N=50K),10%,0.7775,99.38
+International (N=50K),20%,0.7793,99.61
+International (N=50K),100%,0.7824,100.0

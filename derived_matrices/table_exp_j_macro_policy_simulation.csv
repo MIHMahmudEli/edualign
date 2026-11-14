@@ -1,0 +1,7 @@
+Compliance_Rate_Alpha,Adherence_Description,Cohort_Placement_Yield,Yield_Percentage_Raw,Absolute_Yield_Gain,Additional_Students_Placed,Treated_At_Risk_Students,Intervention_Cost_USD,Economic_Gain_USD,Net_Institutional_ROI_USD,Benefit_Cost_Ratio_BCR
+0%,Status Quo (No Intervention),16.59%,16.59,+0.00pp,0,0,$0,$0,$0,1.00x
+20%,Voluntary Low Opt-In,23.33%,23.33,+6.74pp,674,1668,"$583,870","$5,732,910","$5,149,999",9.84x
+40%,Advisory-Prompted Opt-In,30.10%,30.1,+13.51pp,1351,3336,"$1,167,740","$11,480,610","$10,309,384",9.80x
+60%,Departmental Lab Integration,36.88%,36.88,+20.29pp,2029,5005,"$1,751,610","$17,249,390","$15,497,416",9.85x
+80%,Structured Core Requirement,43.55%,43.55,+26.96pp,2696,6673,"$2,335,480","$22,913,280","$20,579,942",9.82x
+100%,Universal Cohort Adoption,50.29%,50.29,+33.70pp,3370,8341,"$2,919,350","$28,644,320","$25,724,970",9.81x

@@ -1,0 +1,130 @@
+category,skill
+Programming & Development,python
+Programming & Development,java
+Programming & Development,javascript
+Programming & Development,c++
+Programming & Development,c#
+Programming & Development,sql
+Programming & Development,r
+Programming & Development,scala
+Programming & Development,go
+Programming & Development,rust
+Programming & Development,typescript
+Programming & Development,php
+Programming & Development,ruby
+Programming & Development,swift
+Programming & Development,kotlin
+Programming & Development,html
+Programming & Development,css
+Programming & Development,react
+Programming & Development,angular
+Programming & Development,vue
+Programming & Development,node.js
+Programming & Development,django
+Programming & Development,flask
+Programming & Development,spring
+Programming & Development,rails
+Programming & Development,git
+Programming & Development,docker
+Programming & Development,kubernetes
+Data Science & Analytics,machine learning
+Data Science & Analytics,deep learning
+Data Science & Analytics,data analysis
+Data Science & Analytics,data visualization
+Data Science & Analytics,statistical analysis
+Data Science & Analytics,tensorflow
+Data Science & Analytics,pytorch
+Data Science & Analytics,pandas
+Data Science & Analytics,numpy
+Data Science & Analytics,scikit-learn
+Data Science & Analytics,tableau
+Data Science & Analytics,power bi
+Data Science & Analytics,hadoop
+Data Science & Analytics,spark
+Data Science & Analytics,data mining
+Data Science & Analytics,neural networks
+Data Science & Analytics,natural language processing
+Data Science & Analytics,nlp
+Data Science & Analytics,computer vision
+Data Science & Analytics,ai
+Data Science & Analytics,artificial intelligence
+Cloud & Infrastructure,aws
+Cloud & Infrastructure,azure
+Cloud & Infrastructure,gcp
+Cloud & Infrastructure,cloud computing
+Cloud & Infrastructure,devops
+Cloud & Infrastructure,ci/cd
+Cloud & Infrastructure,jenkins
+Cloud & Infrastructure,terraform
+Cloud & Infrastructure,ansible
+Cloud & Infrastructure,linux
+Cloud & Infrastructure,windows server
+Cloud & Infrastructure,networking
+Cloud & Infrastructure,security
+Cloud & Infrastructure,microservices
+Cloud & Infrastructure,rest api
+Cloud & Infrastructure,graphql
+Cloud & Infrastructure,serverless
+Soft Skills,communication
+Soft Skills,leadership
+Soft Skills,teamwork
+Soft Skills,problem solving
+Soft Skills,critical thinking
+Soft Skills,time management
+Soft Skills,project management
+Soft Skills,analytical skills
+Soft Skills,creativity
+Soft Skills,adaptability
+Soft Skills,collaboration
+Soft Skills,presentation
+Soft Skills,negotiation
+Soft Skills,mentoring
+Business & Domain,agile
+Business & Domain,scrum
+Business & Domain,product management
+Business & Domain,business analysis
+Business & Domain,stakeholder management
+Business & Domain,requirements gathering
+Business & Domain,process improvement
+Business & Domain,quality assurance
+Business & Domain,compliance
+Business & Domain,risk management
+Business & Domain,strategic planning
+Business & Domain,budget management
+Business & Domain,client management
+Design & UX,ui/ux
+Design & UX,figma
+Design & UX,sketch
+Design & UX,adobe xd
+Design & UX,user research
+Design & UX,wireframing
+Design & UX,prototyping
+Design & UX,user interface
+Design & UX,user experience
+Design & UX,graphic design
+Design & UX,css
+Data Engineering,etl
+Data Engineering,data pipeline
+Data Engineering,airflow
+Data Engineering,kafka
+Data Engineering,database design
+Data Engineering,data warehousing
+Data Engineering,nosql
+Data Engineering,mongodb
+Data Engineering,postgresql
+Data Engineering,mysql
+Data Engineering,redis
+Data Engineering,elasticsearch
+Data Engineering,data governance
+Cybersecurity,information security
+Cybersecurity,penetration testing
+Cybersecurity,vulnerability assessment
+Cybersecurity,incident response
+Cybersecurity,forensics
+Cybersecurity,encryption
+Cybersecurity,firewall
+Cybersecurity,siem
+Cybersecurity,compliance
+Cybersecurity,gdpr
+Cybersecurity,iso 27001
+Cybersecurity,nist

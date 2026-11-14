@@ -1,0 +1,8 @@
+Architecture,Model Family,Dimensions,Mean Alignment,Taxonomy Correlation (r),OOV Rate (%),Coverage (tau>=0.5),CPU Latency (ms),Throughput (QPS),Model Size (MB),Deployment Footprint
+Exact String Matching (Lexical Jaccard),Lexical Rule-Based,1 (Binary),0.376,0.412,62.40%,37.60%,0.1,10000000,0.0,Zero Memory / Fails on Polysemy
+Word-Level TF-IDF (1-Gram),Bag-of-Words Sparse,"12,450 (Sparse)",0.4992,0.528,38.80%,49.20%,1.4,714285,1.2,Sparse / Fails on Sub-Word Variations
+FastText / Word2Vec Static Embeddings,Pretrained Static Vectors,300,0.7415,0.781,8.40%,84.60%,3.8,263157,450.0,High RAM / Static Context
+Sentence-BERT (all-MiniLM-L6-v2),Dense Dual-Encoder Transformer,384,0.8492,0.884,0.00%,99.20%,42.5,23529,90.0,Heavy Transformer / Requires PyTorch & DLLs
+RoBERTa-Base (Mean Pooled),12-Layer Deep Transformer,768,0.8561,0.891,0.00%,99.60%,128.4,7788,498.0,Very Slow on CPU / Server-Class GPU Required
+Domain SkillBERT / JobBERT,Domain-Fine-Tuned Transformer,768,0.8624,0.902,0.00%,100.00%,134.2,7451,512.0,Proprietary Fine-Tuning / Fragile to Drift
+"Char N-Gram + SVD (d=50, Proposed)",Continuous Latent Semantic Space,50,0.8316,0.879,0.00%,98.80%,6.1,163934,2.8,Ultra-Lightweight / Zero DLLs / Sub-10ms CPU

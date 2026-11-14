@@ -1,0 +1,10 @@
+Source_Cohort,Target_Cohort,Is_In_Domain,ROC_AUC,Macro_F1,Accuracy,Transfer_Retention_Rate_Pct,Degradation_Gap_AUC
+Domestic (N=10K),Domestic (N=10K),True,0.9278,0.7296,0.803,100.0,0.0
+Domestic (N=10K),Career Success (N=50K),False,0.7052,0.554,0.5895,90.52,0.0738
+Domestic (N=10K),International (N=50K),False,0.7512,0.6224,0.6324,96.01,0.0312
+Career Success (N=50K),Domestic (N=10K),False,0.7815,0.6358,0.7345,84.23,0.1463
+Career Success (N=50K),Career Success (N=50K),True,0.779,0.6618,0.719,100.0,0.0
+Career Success (N=50K),International (N=50K),False,0.5844,0.5636,0.5768,74.7,0.1979
+International (N=50K),Domestic (N=10K),False,0.8507,0.5383,0.566,91.69,0.0771
+International (N=50K),Career Success (N=50K),False,0.6794,0.6307,0.7519,87.21,0.0996
+International (N=50K),International (N=50K),True,0.7824,0.7198,0.723,100.0,0.0

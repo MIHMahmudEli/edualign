@@ -1,0 +1,4 @@
+Regime,Deficiency,Compensatory_Mechanism,Baseline_Prob,Compensated_Prob,Actionable_Pedagogy
+"Regime I: High Academic (CGPA >= 8.01, Moderate IQ <= 110)",Cognitive Metric Sub-Threshold (IQ <= 110),Communication Skills (>= 7.5) AND Projects Completed (>= 2),0.0%,100.0%,Capstone Projects & Technical Presentation Training
+"Regime II: Moderate Academic (CGPA < 8.01, High IQ >= 111)",Academic Score Deficit (CGPA <= 8.00),Elevated Communication Skills (>= 8.0),0.0%,100.0%,Soft Skills Intensives & Interview Coaching
+"Regime III: Double Deficit (CGPA < 8.01, IQ <= 110)",Both Cognitive and Academic Below Primary Threshold,Non-Compensable under strict tabular rules,0.0%,0.0%,Remedial Coursework & Extended Degree Duration

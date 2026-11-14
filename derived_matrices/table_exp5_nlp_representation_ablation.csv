@@ -1,0 +1,7 @@
+Representation_Method,Mean_Semantic_Alignment,OOV_Zero_Match_Rate,Alignment_Coverage_tau05,Dispersion_StdDev,Latency_ms,Continuity_Status
+Exact String Match (Lexical Jaccard),0.376,62.4%,37.6%,0.4844,0.1,Discrete / Brittle
+Word-Level TF-IDF (1-Gram),0.4992,38.8%,49.2%,0.4445,142.5,Discrete / Brittle
+Char N-Gram TF-IDF (1-3 Gram),0.6633,0.0%,60.4%,0.3076,68.6,Continuous & Dense
+Char N-Gram + SVD (d=25),0.8916,0.0%,100.0%,0.1065,107.7,Continuous & Dense
+"Char N-Gram + SVD (d=50, Proposed)",0.8316,0.0%,98.8%,0.1691,269.6,Continuous & Dense
+Char N-Gram + SVD (d=100),0.7732,0.0%,82.0%,0.2334,406.2,Continuous & Dense

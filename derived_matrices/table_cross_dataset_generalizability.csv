@@ -1,0 +1,4 @@
+Cohort,Records,Positive_Rate,Accuracy,Precision,Recall,F1_Score,ROC_AUC
+Domestic College Placement,10000,16.6%,0.9994,0.9982,0.9982,0.9982,1.0
+Student Career Success,50000,78.1%,0.8159,0.8397,0.9444,0.889,0.8054
+International Graduates,300000,52.2%,0.7756,0.7855,0.785,0.7851,0.8714

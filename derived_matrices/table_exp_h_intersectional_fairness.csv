@@ -1,0 +1,5 @@
+Intersectional_Subgroup,Cohort_Size_N,Empirical_Base_Rate,Predicted_Acceptance,Disparate_Impact_DIR,Statistical_Parity_SPD,Equal_Opportunity_EOD,Average_Odds_AAOD,Predictive_Parity_PPD,Regulatory_Parity_Status
+Male -- OECD / Domestic,8171,69.58%,56.30%,1.0000,0.0000,0.0000,0.0000,0.0000,Reference Benchmark Subgroup
+Female -- OECD / Domestic,8064,69.12%,56.00%,0.9948,-0.0029,0.0009,0.0005,0.0023,Fully Compliant (DIR >= 0.80; EOD <= 0.05)
+Male -- Emerging / Global South,24202,69.38%,55.92%,0.9933,-0.0038,0.0012,0.0065,0.0050,Fully Compliant (DIR >= 0.80; EOD <= 0.05)
+Female -- Emerging / Global South,24419,69.73%,55.86%,0.9922,-0.0044,0.0021,0.0072,0.0064,Fully Compliant (DIR >= 0.80; EOD <= 0.05)
